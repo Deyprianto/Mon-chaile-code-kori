@@ -1,0 +1,10 @@
+This Java code is a perfect and simple example of the Command Design Pattern.
+Let me explain it in very simple words, like you're 10 years old
+Imagine this real-life situation:
+You have a TV remote and a TV.
+
+You press "Power ON" button → TV turns on
+You press "Power OFF" button → TV turns off
+
+The remote doesn't know HOW the TV turns on/off.
+It just knows: "When I press this button, do this action".
