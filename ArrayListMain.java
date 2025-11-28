@@ -7,6 +7,7 @@ public class ArrayListMain{
         cars.add("noah");
         cars.add("cng");
         cars.add("rickshaw");
+        cars.add("rickshaw");//duplicate values alllowed
         System.out.println(cars);
 
     }
