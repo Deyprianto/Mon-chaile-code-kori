@@ -13,6 +13,7 @@ public class LinkedListDemo {
         nums.addFirst(10);
         nums.addLast(20);
         System.out.println(nums);
+        System.out.println(nums.getFirst());
 
     }
 }
