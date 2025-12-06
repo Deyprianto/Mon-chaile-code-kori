@@ -15,5 +15,5 @@ public class ArrayListMethod {
         names.set(1,"demon");
         System.out.println(names);
         
-    }
+    } 
 }
