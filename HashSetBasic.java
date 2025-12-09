@@ -24,6 +24,9 @@ public class HashSetBasic {
 
         System.out.println(names);
 
+      //  names.clear();
+       // System.out.println(names);
+
 
         
     }
