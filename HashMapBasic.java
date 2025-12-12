@@ -15,5 +15,7 @@ public class HashMapBasic {
         countryCity.remove("Australia");
         System.out.println(countryCity);
 
+        System.out.println(countryCity.size());
+
     }
 }
