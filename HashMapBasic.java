@@ -17,5 +17,17 @@ public class HashMapBasic {
 
         System.out.println(countryCity.size());
 
+        for(String i : countryCity.keySet()) {
+            System.out.println(i);
+        }
+
+    for(String i:countryCity.values()) {
+        System.out.println(i);
+    }
+
+    for(String i :countryCity.keySet()) {
+        System.out.println("key : "+i+" --> values :"+countryCity.get(i));
+    }
+
     }
 }
